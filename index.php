@@ -15,24 +15,24 @@
           <div class="description col-5">
             AR-15
           </div>
-          <div class="button col-3">
+          <a class="button col-4" href="store">
             SHOP NOW
-          </div>
+          </a>
         </div>
       </div>
       
       <div class="box-row row justify-content-center">
         <div class="index-item col-10 col-md-3 col-lg-2">
-          <div class="index-item-description"><i class="fas fa-asterisk"></i>foobar</div>
-          <div class="index-item-cta">Learn More</div>
+          <a class="index-item-description" href="store"><i class="fas fa-store"></i>Shop</a>
+          <a class="index-item-cta" href="store">Learn More</a>
         </div>
         <div class="index-item col-10 col-md-3 col-lg-2">
-          <div class="index-item-description"><i class="fas fa-biohazard"></i>baz bat</div>
-          <div class="index-item-cta">Learn More</div>
+          <a class="index-item-description" href="services"><i class="fas fa-tools"></i>Services</a>
+          <a class="index-item-cta" href="services">Learn More</a>
         </div>
         <div class="index-item col-10 col-md-3 col-lg-2">
-          <div class="index-item-description"><i class="fas fa-bomb"></i>donkey</div>
-          <div class="index-item-cta">Learn More</div>
+          <a class="index-item-description" href="contact"><i class="fas fa-headset"></i>Contact Us</a>
+          <a class="index-item-cta" href="contact">Learn More</a>
         </div>
       </div>
     </div>
