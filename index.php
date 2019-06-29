@@ -12,10 +12,10 @@
     <div class="container-fluid index-container">
       <div class="top-row row justify-content-center">
         <div class="index-cta col-7">
-          <div class="description col-5">
+          <div class="description col-12 col-sm-5">
             AR-15
           </div>
-          <a class="button col-4" href="store">
+          <a class="button col-11 col-sm-4" href="store">
             SHOP NOW
           </a>
         </div>

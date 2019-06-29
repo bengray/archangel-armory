@@ -141,6 +141,16 @@ body {
     display: block;
 }
 
+@media (max-width: 767px) {
+    .index-cta .button {
+        font-size: 24px;
+    }
+
+    .index-cta .description {
+        font-size: 24px;
+    }
+}
+
 .index-cta a:hover {
     text-decoration: none;
 }
