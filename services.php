@@ -12,13 +12,13 @@
     <!-- Page Content -->
 
     <div class="container">
-        <div class="row my-4">
+        <div class="row my-4 inner-page">
             <div class="col-12">
                 <h1>Services</h1>
                 <p>
                     At Archangel Armory we offer the following services:
                     <ul>
-                        <li>Firearms Transfer: $25</li>
+                        <li>Transfers: $20/$15 with CWP</li>
                     </ul>
                 </p>
             </div>

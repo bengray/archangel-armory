@@ -12,7 +12,7 @@
     <!-- Page Content -->
 
     <div class="container">
-        <div class="row my-4">
+        <div class="row my-4 inner-page">
             <div class="col-12">
                 <div id="my-store-15900552"></div>
                 <div>

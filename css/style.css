@@ -21,6 +21,10 @@ body {
     height: 100%;
 }
 
+.inner-page {
+    padding-top: 50px;
+}
+
 .nav-logo {
     height: 65px;
 }

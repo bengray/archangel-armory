@@ -10,7 +10,7 @@
 
     <!-- Page Content -->
     <div class="container">
-        <div class="row my-4">
+        <div class="row my-4 inner-page">
             <div class="col-12">
                 <form name="contactform" method="post" action="/server/send_form_email.php">
                     <div class="row">
